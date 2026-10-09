@@ -1,4 +1,4 @@
-# Trabalho-Metodologias-Ativas-Racioc-nio-Probabilistico
+# Trabalho-Metodologias-Ativas-Raciocínio-Probabilistico
 # Rede Bayesiana – Diagnóstico do Farol de Bicicleta a Dínamo
  
 **Disciplina:** Inteligência Artificial – 2º Trabalho (Metodologias Ativas: Raciocínio Probabilístico)
